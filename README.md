@@ -1,6 +1,6 @@
 # Work-Book
 
-It contains spreadsheets with features like to open a file, create a new file, save a file in System.
+It contains spreadsheet with editing features like to change allignment, text color, font-size and background color. It also have file system features like to open a file, create a new file, save a file in System.
 
 Installations :-
 
